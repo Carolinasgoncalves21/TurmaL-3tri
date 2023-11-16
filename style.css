@@ -17,8 +17,9 @@ body {
 #imagem {
     height: 150px;
     width: 150px;
-    padding: 50px;
+    padding: 5px;
     margin: 15px;
     border: solid #30348C;
+    border-radius: 25px;
 
 }
