@@ -43,3 +43,7 @@ body {
     text-align: center;
     color: #2C402F;
 }
+
+.lista1{
+    list-style-position: inside;
+}
