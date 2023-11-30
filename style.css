@@ -8,7 +8,12 @@ header{
     color:#3339A6;
     font-size: 30px;
     border-bottom: 5px solid #2C402F;
-    background: #BF9075;
+    background: #D9CEC1;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-around;
 }
 
 #titulo {
