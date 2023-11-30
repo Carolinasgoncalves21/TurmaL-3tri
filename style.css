@@ -3,6 +3,13 @@ body {
     font-family: sans-serif;
 }
 
+header{
+    padding: 20px;
+    color:#3339A6;
+    font-size: 35px;
+    border-bottom: 5px solid white;
+}
+
 #titulo {
     color: #30348C;
     font-size: 50px;
